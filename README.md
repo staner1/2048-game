@@ -30,7 +30,7 @@
 <br>
 
 - <img src="https://raw.githubusercontent.com/staner1/Readme-images/0bb16e5e2f4725519e259e9d55e3955598f6ff4f/images/icons/javascript-logo.svg" alt="SCSS" align="center" width="70"/>
-  &nbsp;JavaScript was used to add an additional class to the HTML structure of the page when clicking on the burger menu
+  &nbsp;JavaScript was used to handle tile movement, score updates, and game state changes in the 2048 game.
 
 </br>
 
