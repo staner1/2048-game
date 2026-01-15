@@ -7,7 +7,7 @@
 
 ---
 
-### [DESIGN LINK](https://staner1.github.io/2048-game/) - click on the link to explore the game
+### [DEMO LINK](https://staner1.github.io/2048-game/) - click on the link to explore the game
 
 ---
 
