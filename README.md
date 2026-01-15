@@ -57,11 +57,13 @@ You need to have the following programs installed on your computer:
 
 ### Screenshots:
 
-![2048 Game Screenshot](./screens/start-state.jpg) This is the initial state. Press "Start" to begin playing. Use the arrow keys (Up, Down, Left, Right) to move the tiles.
+<img src="./screens/start-state.jpg" alt="2048 Game Screenshot" width="500">
+ This is the initial state. Press "Start" to begin playing. Use the arrow keys (Up, Down, Left, Right) to move the tiles.
 
-![2048 Game Screenshot](./screens//gaming-state.jpg)
+<img src="./screens/gaming-state.jpg" alt="2048 Game Screenshot" width="500">
 
 <br></br>
-![2048 Game Screenshot](./screens/style-button.jpg) Press the button on the left side of the page to change the game color theme.
 
-![2048 Game Screenshot](./screens/dark-mode.jpg) Dark mode
+<img src="./screens/style-button.jpg" alt="2048 Game Screenshot" width="500"> Press the button on the left side of the page to change the game color theme.
+
+<img src="./screens/dark-mode.jpg" alt="2048 Game Screenshot" width="500"> Dark mode
